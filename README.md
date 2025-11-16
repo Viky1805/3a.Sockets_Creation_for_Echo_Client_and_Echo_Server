@@ -34,8 +34,8 @@ while True:
 
 <img width="517" height="93" alt="image" src="https://github.com/user-attachments/assets/50755ef7-a679-4701-9c84-b0ddd8f53f1e" />
 
-<img width="517" height="93" alt="image" src="https://github.com/user-attachments/assets/6c768314-6a15-404b-952f-1648de9d747b" />
 
+<img width="498" height="254" alt="image" src="https://github.com/user-attachments/assets/6edf48b4-19d5-402f-9420-dbda49ba651a" />
 
 
 ## RESULT
